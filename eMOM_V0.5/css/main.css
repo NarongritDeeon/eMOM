@@ -1,0 +1,22 @@
+/* main.css */
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main-content {
+    margin-left: 230px; /* ช่องว่างสำหรับ sidebar */
+    margin-top: 10px; /* ช่องว่างสำหรับ header */
+    padding: 20px;
+    text-align: left;
+}
+
+h1 {
+    color: #00aaff;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
